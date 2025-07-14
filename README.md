@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">💫 What's Up? Here's a Glimpse Into Me</h1>
 
 <p align="center">
   I'm primarily a <strong>Frontend Developer</strong> with expertise in <code>Next.js</code>, <code>React.js</code>, <code>Redux Toolkit</code>, <code>Tailwind CSS</code> and <code>Figma</code>.  
