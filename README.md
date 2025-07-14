@@ -3,6 +3,8 @@
   <img src="https://github.com/SDhakZ/SDhakZ/blob/main/github-banner.gif" />
 </p>
 
+
+
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
@@ -79,12 +81,19 @@
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=SDhakZ&theme=gotham&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SDhakZ&theme=gotham&hide_border=false&layout=compact)
-
+<!-- 3D Bar Contributions Chart -->
+  <img 
+    src="https://ssr-contributions-svg.vercel.app/_/SDhakZ?chart=3dbar&theme=dark_green&flatten=2&format=svg&animation=wave&dark=true" 
+    alt="GitHub Contributions Chart" 
+  />
+<br />
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=SDhakZ&theme=gotham&hide_border=false" alt="GitHub Streak Stats" />
+<!-- Streak Stats -->
+<br />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDhakZ&theme=gotham&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
 ---
 
 ## ✍️ Random Dev Quote
