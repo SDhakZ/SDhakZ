@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/SDhakZ/SDhakZ/blob/main/github-banner.gif" />
 </p>
@@ -5,18 +6,13 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  I'm a <strong>Frontend Developer</strong> with a strong foundation in <code>Next.js</code>, <code>React.js</code>, <code>Redux Toolkit</code>, and <code>Tailwind CSS</code>.
+  I'm primarily a <strong>Frontend Developer</strong> with expertise in <code>Next.js</code>, <code>React.js</code>, <code>Redux Toolkit</code>, <code>Tailwind CSS</code> and <code>Figma</code>.  
+  Currently expanding my skills into backend development and <code>Python</code> for AI and <code>Multi-Agent Architectures</code>.
 </p>
 
 <p align="center">
-  Currently diving deeper into <strong>AI Agent Automation Systems</strong> — exploring the power of <code>Python</code> and <code>Multi-Agent Architectures</code> to build smart, scalable solutions.
+  Think of me as a <em>jack of all trades, master of some</em>
 </p>
-
-<p align="center">
-  Think of me as a <em>jack of all trades, master of some</em> — blending design thinking, product intuition, and technical versatility to ship impactful experiences.
-</p>
-
----
 
 ## 🌐 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharnam34@gmail.com)
