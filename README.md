@@ -1,5 +1,8 @@
-# 💫 About Me:
-<h2 align="center">👋 Hey there!</h2>
+<p align="center">
+  <img src="https://github.com/SDhakZ/SDhakZ/blob/main/github-banner.gif" />
+</p>
+
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
   I'm a <strong>Frontend Developer</strong> with a strong foundation in <code>Next.js</code>, <code>React.js</code>, <code>Redux Toolkit</code>, and <code>Tailwind CSS</code>.
@@ -17,10 +20,11 @@
 
 ## 🌐 Connect with me
 
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sharnamdhakhwa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharnam-dhakhwa-260476196)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sharnam-Dhakhwa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharnam34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharnam-dhakhwa-260476196)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sharnamdhakhwa)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sharnam-Dhakhwa)
+
 
 ---
 
@@ -80,7 +84,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SDhakZ&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=SDhakZ&theme=gotham&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SDhakZ&theme=gotham&hide_border=false&layout=compact)
 
