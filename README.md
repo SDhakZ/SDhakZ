@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharnam-dhakhwa-260476196)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sharnamdhakhwa)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sharnam-Dhakhwa)
-<a href="https://github.com/SDhakZ/SDhakZ/blob/main/Shanam%20Dhakhwa%20one%20page.pdf" target="_blank">
+<a href="[https://github.com/SDhakZ/SDhakZ/blob/main/Shanam%20Dhakhwa%20one%20page.pdf](https://drive.google.com/file/d/1uS6TAuYIcYUq6fM9mkpvU0qppAcH21Aw/view?usp=sharing)" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View--PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
 </a>
 
