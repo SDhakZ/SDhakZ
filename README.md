@@ -9,7 +9,7 @@
 
 <p align="center">
   I'm primarily a <strong>Frontend Developer</strong> with expertise in <code>Next.js</code>, <code>React.js</code>, <code>Redux Toolkit</code>, <code>Tailwind CSS</code> and <code>Figma</code>.  
-  Currently expanding my skills into backend development and <code>Python</code> for AI and <code>Multi-Agent Architectures</code>.
+  Currently expanding my skills into <strong>backend development</strong> and <strong>Python</strong> for AI and <code>Multi-Agent Architectures</code>.
 </p>
 
 <p align="center">
